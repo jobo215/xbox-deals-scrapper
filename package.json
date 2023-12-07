@@ -1,0 +1,14 @@
+{
+  "name": "xbox-deals-scapper",
+  "version": "1.0.0",
+  "description": "Scrapper for Xbox games on sale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jobo215",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.6.0"
+  }
+}
